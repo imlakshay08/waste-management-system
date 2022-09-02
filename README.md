@@ -1,0 +1,1 @@
+# Garbage-Monitoring-System-with-Django
