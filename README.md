@@ -11,7 +11,7 @@ Complaining about the waste problem encountered everyday to municipality is heft
 
 ## Requirements for the project
 
-You need to setup XAMPP() on your local system, along with phpMyAdmin and MySQL. Once you have installed XAMPP successfully, you are ready to use this project. 
+You need to setup XAMPP on your local system, along with phpMyAdmin and MySQL. Once you have installed XAMPP successfully, you are ready to use this project. 
 
 ## How to setup this Project locally
 
