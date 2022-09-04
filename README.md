@@ -9,4 +9,13 @@ The ‘WASTE MANAGEMENT SYSTEM’ is a web application aimed to provide a digita
 
 Complaining about the waste problem encountered everyday to municipality is hefty process and waste management aims to make this process easier. With a simple handheld device with access to internet, user can use this platform complain their concerns to municipality . The automated system will redirect the complains .The municipality admins at the receiving side can acknowledge the reports which lets the users whether their complain is adddressed or not.
 
+## Requirements for the project
+
+You need to setup XAMPP() on your local system, along with phpMyAdmin and MySQL. Once you have installed XAMPP successfully, you are ready to use this project. 
+
 ## How to setup this Project locally
+
+1. First `Fork` the repository, tab on the right most corner.
+2. Go to the directory where you have installed XAMPP, by default it should be C:/xampp. Open htdocs folder, then open git bash there, type `git clone` along with the fork's link of this repository. All the necessary files would be cloned there. 
+3. Then, open your browser, open this link http://localhost:8080/waste-management-system-prjoect/. This will open homepage of the web application. Now you have successfully setup the project in your system.
+4. Use the project. Do the desired changes if you want in the codebase, make a pull request. A PR would be highly appreciable. Thank you very much.
