@@ -4,7 +4,7 @@ As we know, importance of waste management has always been a great concern nowad
 
 
 
-The ‘WASTE MANAGEMENT SYSTEM’ is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities.
+The ‘Waste Management System’ is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities.
 1. Complaining about waste or garbage problems near their locality.
 2. See thier complain Report and check if the work is done! or not.
 3. people can take different ideas regarding recycling of waste through this website.
