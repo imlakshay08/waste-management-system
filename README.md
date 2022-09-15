@@ -11,7 +11,7 @@ The ‘Waste Management System’ is a web application aimed to provide a digita
 
 Complaining about the waste problem encountered everyday to municipality is hefty process and waste management aims to make this process easier. With a simple handheld device with access to internet, user can use this platform complain their concerns to municipality . The automated system will redirect the complains .The municipality admins at the receiving side can acknowledge the reports which lets the users whether their complain is adddressed or not.
 
-Special thanks and credits to [@janakbist](https://github.com/janakbist/). Thank you very much for this sir.
+Special thanks and credits to [@janakbist](https://github.com/janakbist/). Thank you very much sir.
 
 ### Requirements for the project
 
