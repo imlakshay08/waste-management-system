@@ -91,7 +91,7 @@
     
     <!--Content starts-->
     <div class="content flex">
-    <p>Waste Management system | 2022 | 
+    <p>Waste Management system | <?php echo date('Y'); ?> | 
          <!-- <i class="fa fa-user" aria-hidden="true">Admin</i> -->
          <a href="adminsignup/adminlogin.php"> <i class="fa fa-lock" aria-hidden="true"> Login As Admin</i></a>
          <!-- <i class="fa fa-users" aria-hidden="true"></i> -->
