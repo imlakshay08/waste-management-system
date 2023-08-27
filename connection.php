@@ -1,3 +1,3 @@
 <?php 
-$con = mysqli_connect('localhost', 'root', '', 'wms');
+$con = mysqli_connect('localhost', 'root', 'Rootroot', 'wms');
 ?>

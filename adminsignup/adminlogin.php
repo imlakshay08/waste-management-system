@@ -90,7 +90,7 @@
     
     <!--Content starts-->
     <div class="content flex">
-    <p>Waste Management system | 2022 |<a href="../login-user.php"> <i class="fa fa-lock" aria-hidden="true"> Login As User</i></a>
+    <p>Waste Management system | <?php echo date('Y'); ?> |<a href="../login-user.php"> <i class="fa fa-lock" aria-hidden="true"> Login As User</i></a>
 
     </p>
     </div>
