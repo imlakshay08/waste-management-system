@@ -15,7 +15,7 @@ Special thanks and credits to [@janakbist](https://github.com/janakbist/). Thank
 
 ### Requirements for the project
 
-You need to setup XAMPP on your local system, along with phpMyAdmin, MySQL Database and Apache web server. Once you have installed and configured XAMPP successfully on your system, you are ready to setup this project on your system. 
+You need to setup XAMPP/WAMP or LAMP(in case you are using any Linux distributions) on your local system, along with phpMyAdmin, MySQL Database and Apache web server. Once you have installed and configured XAMPP successfully on your system, you are ready to setup this project on your system. 
 
 ## How to setup this Project locally
 
