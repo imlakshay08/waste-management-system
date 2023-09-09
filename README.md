@@ -25,4 +25,9 @@ You need to setup XAMPP on your local system, along with phpMyAdmin, MySQL Datab
 4. Then, open your browser, open this link http://localhost/Waste-Management-System/. This will open homepage of the web application. Now you have successfully setup the project in your system.
 5. Use the project. Do the desired changes if you want in the codebase, make a pull request. A PR would be highly appreciable. 
 
-Thank you.
+## Thanks to all contributors ❤
+
+ <a href = "https://github.com/imlakshay08/waste-management-system/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=imlakshay08/waste-management-system"/>
+ </a>
+
