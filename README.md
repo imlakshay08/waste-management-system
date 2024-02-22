@@ -32,6 +32,12 @@ To set up the project locally, you'll need:
 4. **Run the Application:** Open your web browser and enter `http://localhost/Waste-Management-System/`. This will launch the homepage of the application.
 5. **Contribute:** Feel free to explore the codebase, make changes, and submit pull requests. Your contributions are highly appreciated!
 
-### Contributors:
+## Thanks to all contributors ❤
 
-Thanks to all the contributors who have helped improve this project. [View Contributors](https://github.com/imlakshay08/waste-management-system/graphs/contributors)
+Thanks to all the contributors who have helped improve this project. 
+
+ <a href = "https://github.com/imlakshay08/waste-management-system/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=imlakshay08/waste-management-system"/>
+ </a>
+ 
+[View Contributors](https://github.com/imlakshay08/waste-management-system/graphs/contributors)
