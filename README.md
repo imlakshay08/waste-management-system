@@ -12,7 +12,7 @@ By simplifying the process of reporting waste issues, the Waste Management Syste
 
 ### Acknowledgment:
 
-Special thanks to [@janakbist](https://github.com/janakbist/) for their contributions to this project.
+Special thanks and credits to [@janakbist](https://github.com/janakbist/), thank you for this sir.
 
 ### Requirements:
 
