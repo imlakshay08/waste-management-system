@@ -1,33 +1,37 @@
-# [Waste Management System](https://waste-managemnt-system.000webhostapp.com/)
+# Waste Management System
 
-As we know, importance of waste management has always been a great concern nowadays. The world is sinking into the sea of waste. Every narrow nooks and corner of the streets are being piled up with waste. Waste management reduces the effect of waste on the environment, health, and so on. It can also help reuse or recycle resources, such as; paper, cans, glass, and so on. There is various type of waste management that include the disposal of solid, liquid, gaseous, or hazardous substances. 
+![Waste Management System](https://waste-managemnt-system.000webhostapp.com/)
 
+In today's world, effective waste management is of paramount importance. The increasing volume of waste poses significant challenges to the environment and public health. Proper waste management not only mitigates these challenges but also promotes resource reuse and recycling. The Waste Management System is a digital platform designed to streamline the process of reporting waste-related issues to municipal authorities.
 
+### Features:
 
-The ‘Waste Management System’ is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities.
-1. Complaining about waste or garbage problems near their locality.
-2. See thier complain Report and check if the work is done! or not.
-3. people can take different ideas regarding recycling of waste through this website.
+1. **Report Complaints:** Users can easily report waste or garbage problems in their vicinity to their respective municipalities through the platform.
+2. **Track Complaint Status:** Users can monitor the status of their complaints and check whether they have been addressed by the authorities.
+3. **Recycling Ideas:** The platform also provides information and ideas on waste recycling, fostering environmental awareness among users.
 
-Complaining about the waste problem encountered everyday to municipality is hefty process and waste management aims to make this process easier. With a simple handheld device with access to internet, user can use this platform complain their concerns to municipality . The automated system will redirect the complains .The municipality admins at the receiving side can acknowledge the reports which lets the users whether their complain is adddressed or not.
+By simplifying the process of reporting waste issues, the Waste Management System aims to facilitate prompt action by municipal authorities, contributing to cleaner and healthier communities.
 
-Special thanks and credits to [@janakbist](https://github.com/janakbist/). Thank you very much sir.
+### Acknowledgment:
 
-### Requirements for the project
+Special thanks to [@janakbist](https://github.com/janakbist/) for their contributions to this project.
 
-You need to setup XAMPP/WAMP or LAMP(in case you are using any Linux distributions) on your local system, along with phpMyAdmin, MySQL Database and Apache web server. Once you have installed and configured XAMPP successfully on your system, you are ready to setup this project on your system. 
+### Requirements:
 
-## How to setup this Project locally
+To set up the project locally, you'll need:
 
-1. First `Fork` the repository,by clicking tab on the right most corner.
-2. Go to the directory where you have installed XAMPP, by default directory should be C:/xampp. Open htdocs folder, then open git bash there, type `git clone` along with the fork's link of this repository, that is, `git clone https://github.com/your-username/Waste-Management-System.git`. All the necessary files would be cloned there.
-3. Then, you need to setup SQL database on phpMyAdmin through this link -  http://localhost/. You just need to import wms.sql file there, after creating a new database.
-4. Then, open your browser, open this link http://localhost/Waste-Management-System/. This will open homepage of the web application. Now you have successfully setup the project in your system.
-5. Use the project. Do the desired changes if you want in the codebase, make a pull request. A PR would be highly appreciable. 
+- XAMPP/WAMP or LAMP (for Linux) installed on your system.
+- PHPMyAdmin, MySQL Database, and Apache web server configured.
+- Basic understanding of web development and database management.
 
-## Thanks to all contributors ❤
+### Local Setup Instructions:
 
- <a href = "https://github.com/imlakshay08/waste-management-system/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=imlakshay08/waste-management-system"/>
- </a>
+1. **Fork Repository:** Click on the "Fork" button on the top right corner of this repository to create your copy.
+2. **Clone Repository:** Navigate to your XAMPP/WAMP/LAMP directory (`C:/xampp/htdocs` by default), open Git Bash, and run the command: `git clone https://github.com/your-username/Waste-Management-System.git`.
+3. **Database Setup:** Access phpMyAdmin (`http://localhost/phpmyadmin/`) and import the `wms.sql` file to create the necessary database tables.
+4. **Run the Application:** Open your web browser and enter `http://localhost/Waste-Management-System/`. This will launch the homepage of the application.
+5. **Contribute:** Feel free to explore the codebase, make changes, and submit pull requests. Your contributions are highly appreciated!
 
+### Contributors:
+
+Thanks to all the contributors who have helped improve this project. [View Contributors](https://github.com/imlakshay08/waste-management-system/graphs/contributors)
