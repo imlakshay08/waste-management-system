@@ -1,6 +1,4 @@
-# Waste Management System
-
-![Waste Management System](https://waste-managemnt-system.000webhostapp.com/)
+# [Waste Management System](https://waste-managemnt-system.000webhostapp.com/)
 
 In today's world, effective waste management is of paramount importance. The increasing volume of waste poses significant challenges to the environment and public health. Proper waste management not only mitigates these challenges but also promotes resource reuse and recycling. The Waste Management System is a digital platform designed to streamline the process of reporting waste-related issues to municipal authorities.
 
