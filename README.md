@@ -24,11 +24,32 @@ To set up the project locally, you'll need:
 
 ### Local Setup Instructions:
 
-1. **Fork Repository:** Click on the "Fork" button on the top right corner of this repository to create your copy.
-2. **Clone Repository:** Navigate to your XAMPP/WAMP/LAMP directory (`C:/xampp/htdocs` by default), open Git Bash, and run the command: `git clone https://github.com/your-username/Waste-Management-System.git`.
-3. **Database Setup:** Access phpMyAdmin (`http://localhost/phpmyadmin/`) and import the `wms.sql` file to create the necessary database tables.
-4. **Run the Application:** Open your web browser and enter `http://localhost/Waste-Management-System/`. This will launch the homepage of the application.
-5. **Contribute:** Feel free to explore the codebase, make changes, and submit pull requests. Your contributions are highly appreciated!
+1. **Fork Repository:**
+   - Click on the "Fork" button at the top right corner of this repository to create your copy.
+
+2. **Clone Repository:**
+   - Open your terminal.
+   - Navigate to your XAMPP/WAMP/LAMP directory (`C:/xampp/htdocs` by default).
+   - Run the following command:
+     ```bash
+     git clone https://github.com/your-username/Waste-Management-System.git
+     ```
+
+3. **Database Setup:**
+   - Open your web browser and go to [phpMyAdmin](http://localhost/phpmyadmin/).
+   - Import the `wms.sql` file to create the necessary database tables.
+
+4. **Run the Application:**
+   - Launch your web browser.
+   - Enter the following URL:
+     ```
+     http://localhost/Waste-Management-System/
+     ```
+   This will open the homepage of the application.
+
+5. **Contribute:**
+   - Explore the codebase, make changes, and contribute to the project.
+   - Submit pull requests with your enhancements and fixes. Your contributions are highly appreciated!
 
 ## Thanks to all contributors ❤
 
