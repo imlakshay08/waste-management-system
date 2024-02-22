@@ -60,3 +60,9 @@ Thanks to all the contributors who have helped improve this project.
  </a>
  
 [View Contributors](https://github.com/imlakshay08/waste-management-system/graphs/contributors)
+
+### Additional Resources:
+
+- [Learning Resources](LEARN.md): Explore tutorials, guides, and documentation to learn more about the Waste Management System project and related technologies.
+- [Contributing Guidelines](CONTRIBUTING.md): Read the guidelines for contributing to the Waste Management System project and how you can get involved.
+- [Code of Conduct](CODE_OF_CONDUCT.md): Review the Code of Conduct to understand the expected behavior and guidelines for participating in the Waste Management System community.
